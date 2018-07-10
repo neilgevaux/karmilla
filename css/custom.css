@@ -1,0 +1,16 @@
+#mainNav{
+	height:10em;
+	width:100%;
+	background-image:url("../images/contentPageImages/bannerBackground.jpg");
+	background-repeat:no-repeat;
+    background-size:cover; /* Ensures image fits viewport on resize */
+	border-bottom:solid 1px #cccccc;
+}
+
+#header-content{
+	height:100%;
+	width:100%;
+	background-image:url("../images/homepageImages/homepageImage06.jpg");
+	background-repeat:no-repeat;
+    background-size:cover; /* Ensures image fits viewport on resize */
+}
